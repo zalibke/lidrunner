@@ -1,4 +1,3 @@
-```markdown
 # Lidrunner
 
 **Date Created**: version 1.7 - 15 July 2024  
